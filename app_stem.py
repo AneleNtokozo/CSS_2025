@@ -12,7 +12,7 @@ import numpy as np
 from PIL import Image
 
 # Title of the app
-st.title("Researcher Profile Page with STEM Data")
+st.title("Researcher Profile Page")
 
 # Collect basic information
 name = "Anele Ntokozo Mahlangu"
