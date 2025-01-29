@@ -26,7 +26,7 @@ st.write(f"**Field of Research:** {field}")
 st.write(f"**Institution:** {institution}")
 
 # Load the image
-image_path = "/Users/socco/Pictures/Picture_AN.jpeg"
+image_path = "Picture_AN.jpeg"
 
 try:
     image = Image.open(image_path)
